@@ -1,3 +1,11 @@
+//Self Portrait
+//   by Sean Ko 
+
+// Overview - this is a project on creating my self portrait using p5.js
+
+// Notes - I am pretty satisfied with my outcome, I'm just glad it resembles me! 
+
+
 // Global
 var gDebugMode = false;
 
